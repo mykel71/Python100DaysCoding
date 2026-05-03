@@ -1,16 +1,19 @@
-# This is a sample Python script.
+weight = 85
+height = 1.85
 
-# Press ⌃F5 to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+bmi = weight / (height ** 2)
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press F9 to toggle the breakpoint.
+# 🚨 Do not modify the values above
+# Write your code below 👇
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+if bmi < 18.5:
+    print("Your BMI is " + str(round(bmi, 2)) + ", you are underweight.")
+elif bmi < 25:
+    print("Your BMI is " + str(round(bmi, 2)) + ", you have a normal weight.")
+elif bmi < 30:
+    print("Your BMI is " + str(round(bmi, 2)) + ", you are slightly overweight.")
+elif bmi < 35:
+    print("Your BMI is " + str(round(bmi, 2)) + ", you are obese.")
+else:    print("Your BMI is " + str(round(bmi, 2)) + ", you are clinically obese.") 
