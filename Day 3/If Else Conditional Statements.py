@@ -33,4 +33,25 @@ if number % 2 == 0:
     print(f"{number} is an even number.")
 else:    print(f"{number} is an odd number.")   
 
+#Nested If / Else Statements
+# Example: Check if a number is positive, negative or zero
+number = int(input("Enter a number: "))
+if number > 0:
+    print(f"{number} is a positive number.")
+elif number < 0:    print(f"{number} is a negative number.")
 
+#Continue:
+
+print("Welcome to the Roller Coaster!")
+height = int(input("What is your height in cm? "))
+if height >= 120:
+    print("You can ride the roller coaster!")
+    age = int(input("What is your age?"))
+    if age <= 12:
+        print("Please pay $5.")
+    elif age <= 18:
+        print("Please pay $7.")
+    else:
+        print("Please pay $12.")
+else:
+    print("Sorry, you are not tall enough to ride the roller coaster.")
