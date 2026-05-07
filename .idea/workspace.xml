@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4073df60-ffe2-4969-8649-8525f6f646fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/pyProjectModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/For Loops Range Code Blocks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python100DaysCoding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python100days.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +87,7 @@
       <updated>1777838798046</updated>
       <workItem from="1777838799074" duration="526000" />
       <workItem from="1777902548737" duration="17755000" />
-      <workItem from="1778093555812" duration="420000" />
+      <workItem from="1778093555812" duration="6016000" />
     </task>
     <servers />
   </component>
