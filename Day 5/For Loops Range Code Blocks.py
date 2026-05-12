@@ -1,2 +1,6 @@
-for each in range(1,11):
-    print(each)
+
+# For Loop
+
+fruits = ['apple', 'Peach', 'Pear']
+for fruit in fruits:
+    print(fruit)
