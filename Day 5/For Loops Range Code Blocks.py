@@ -30,5 +30,11 @@ total = 0
 for number in range(1, 101):
    total += number
 print(total)
-
-
+# mini exercize
+for number in range(1, 101):
+    if number % 3 == 0:
+        print('Fizz')
+    elif number % 5 == 0:
+        print('Buzz')
+    else:
+        print(number)
