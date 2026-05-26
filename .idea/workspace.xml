@@ -53,6 +53,7 @@
     "Python.Rock Paper Scissors.executor": "Run",
     "Python.Treasure Island.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.py Functions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -91,6 +92,7 @@
       <workItem from="1778183133468" duration="139000" />
       <workItem from="1778273463584" duration="6759000" />
       <workItem from="1778598101627" duration="4485000" />
+      <workItem from="1778602692797" duration="9358000" />
     </task>
     <servers />
   </component>
@@ -108,7 +110,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="pythonCoding" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -126,6 +128,7 @@
     <SUITE FILE_PATH="coverage/Python100DaysCoding$Password_Generator_Project.coverage" NAME="Password Generator Project Coverage Results" MODIFIED="1778602345087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
     <SUITE FILE_PATH="coverage/Python100DaysCoding$Rock_Paper_Scissors.coverage" NAME="Rock Paper Scissors Coverage Results" MODIFIED="1778010002844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 4" />
     <SUITE FILE_PATH="coverage/Python100DaysCoding$Treasure_Island.coverage" NAME="Treasure Island Coverage Results" MODIFIED="1778003494620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3" />
+    <SUITE FILE_PATH="coverage/Python100DaysCoding$py_Functions.coverage" NAME="py Functions Coverage Results" MODIFIED="1778681801488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 6" />
     <SUITE FILE_PATH="coverage/Python100DaysCoding$For_Loops_Range_Code_Blocks.coverage" NAME="For Loops Range Code Blocks Coverage Results" MODIFIED="1778599095199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
   </component>
 </project>
